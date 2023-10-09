@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "localStorage": "^1.0.4",
+    "playwright": "^1.38.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.8.3"
+  },
+  "scripts": {}
+}
